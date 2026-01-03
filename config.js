@@ -29,7 +29,7 @@ const CONFIG = {
 	weatherKey: 'https://api.open-meteo.com/v1/forecast?latitude=-9.9747&longitude=-67.81&hourly=temperature_2m', // Write here your API Key
 	weatherIcons: 'Dark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
-	language: 'en', // More languages in https://openweathermap.org/current#multi
+	language: 'pt_br', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
 	defaultLatitude: '-9.068971',
