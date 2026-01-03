@@ -53,9 +53,9 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'Roblox',
+			icon: 'square-stop',
+			link: 'https://www.roblox.com/home',
 		},
 		{
 			id: '2',
